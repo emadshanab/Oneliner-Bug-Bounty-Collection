@@ -1,5 +1,4 @@
-[# Oneliner-Bug-Bounty-Collection
-Oneliner Bug Bounty Collection collected from GitHub to all bug bounty hunters](https://github.com/AkshayraviC09YC47/Bash-oneliner-script-for-bug-bounty
+https://github.com/AkshayraviC09YC47/Bash-oneliner-script-for-bug-bounty
 
 https://github.com/x86trace/Oneliners
 
