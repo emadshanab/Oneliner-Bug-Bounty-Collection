@@ -38,6 +38,10 @@ https://github.com/stephenturner/oneliners
 
 https://github.com/OFJAAAH/KingOfBugBountyTips
 
+https://github.com/thecybertix/One-Liner-Collections
+
+https://gist.github.com/0xSojalSec/f4a4151149acaf0e42e91de552a2e026
+
 https://gist.github.com/0x3n0/0ed251313257249f5eef396706b83ff2
 
 https://gist.github.com/aufzayed/c12b9ecf9523b08c3b10a3db697e7850
